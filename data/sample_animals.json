@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Simba",
+    "species": "African Lion",
+    "date_of_birth": "2018-03-15",
+    "habitat": "Savanna Ridge",
+    "weight": 185.5,
+    "health_status": "healthy"
+  },
+  {
+    "name": "Ella",
+    "species": "African Elephant",
+    "date_of_birth": "2015-06-20",
+    "habitat": "African Plains",
+    "weight": 5800.0,
+    "health_status": "healthy"
+  },
+  {
+    "name": "Rajah",
+    "species": "Bengal Tiger",
+    "date_of_birth": "2019-01-10",
+    "habitat": "Tiger Territory",
+    "weight": 215.0,
+    "health_status": "healthy"
+  },
+  {
+    "name": "Panda",
+    "species": "Giant Panda",
+    "date_of_birth": "2016-09-05",
+    "habitat": "Bamboo Forest",
+    "weight": 98.5,
+    "health_status": "healthy"
+  },
+  {
+    "name": "Kanga",
+    "species": "Red Kangaroo",
+    "date_of_birth": "2020-11-12",
+    "habitat": "Outback",
+    "weight": 78.0,
+    "health_status": "healthy"
+  }
+]
